@@ -1,0 +1,17 @@
+STEPS TO CREATE HTML REPORT
+
+1.Run the test you want to get report about if you haven't run yet(from XML FILE)
+
+2.Click on Run -> Edit configuration
+
+3.Find the name of the test you want to get report about
+
+4.On the right hand side click on Listeners button
+
+5.Click on add button bellow listeners
+
+6.Search for report and choose EmailableReporter
+
+7.Click Apply then OK
+
+8.Run your test Again
